@@ -66,7 +66,7 @@
       row-gap: 14px;
   }
 
-@media(max-width: 750px){
+/* @media(max-width: 750px){
   .video-grid{
     grid-template-columns:1fr 1fr ;
   }
@@ -85,7 +85,7 @@
     grid-template-columns:1fr 1fr 1fr ;
   }
 }
-
+ */
 
   .video-time{
     font-family: roboto,arial;
@@ -101,4 +101,5 @@
     padding-bottom: 4px;
     padding-top: 4px;
     border-radius: 2px;
+
   }
